@@ -4,11 +4,6 @@
 
 Bem-vindo ao meu perfil GitHub! Sou um desenvolvedor apaixonado por tecnologia e programação. Aqui você encontrará meus projetos e contribuições.
 
-## Sobre Mim
-
-- 🎓 Formando em Sistema pela Estacio.
-- 💼 Atualmente trabalhando como Dev na Alertrack(sacdigital).
-
 ## Tecnologias e Ferramentas
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
