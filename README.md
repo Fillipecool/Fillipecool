@@ -30,9 +30,9 @@ Bem-vindo ao meu perfil GitHub! Sou um desenvolvedor apaixonado por tecnologia e
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=fillipecool&show_icons=true&theme=radical)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=fillipecool&layout=compact&theme=radical)
+<!-- ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=fillipecool&layout=compact&theme=radical)
 
-[![Contribuições Recentes](https://github-readme-streak-stats.herokuapp.com/?user=fillipecool&theme=radical)](https://github.com/fillipecool)
+[![Contribuições Recentes](https://github-readme-streak-stats.herokuapp.com/?user=fillipecool&theme=radical)](https://github.com/fillipecool) -->
 
 ## Contato
 
