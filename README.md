@@ -37,10 +37,10 @@ Aqui você encontrará meus projetos, contribuições e um pouco do que gosto de
 
 ## 📜 Minhas Estatísticas
 
-<div align="start">
-  <img src="https://mongodb-charts.vercel.app/api/github-stats" alt="Estatísticas personalizadas" style="margin-top: 10px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fillipecool&layout=compact&theme=radical" height="200" alt="Linguagens mais usadas"/>
-</div>
+<p align="center">
+  <img src="https://mongodb-charts.vercel.app/api/github-stats" alt="Estatísticas personalizadas" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fillipecool&layout=compact&theme=radical" alt="Linguagens mais usadas" height="200"/>
+</p>
 
 
 
