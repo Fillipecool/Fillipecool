@@ -44,8 +44,8 @@ Whether it’s backend alchemy or frontend enchantments, I’m always brewing so
 ## 📜 Scrolls of Stats
 
 <p align="start">
-  <img src="https://mongodb-charts.vercel.app/api/github-stats" alt="Custom GitHub Stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fillipecool&layout=compact&theme=radical" alt="Top Languages" width="36%"/>
+  <img src="https://mongodb-charts.vercel.app/api/github-stats" alt="Custom GitHub Stats" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fillipecool&layout=compact&theme=radical" alt="Top Languages" width="35%"/>
 </p>
 
 
