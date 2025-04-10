@@ -1,50 +1,58 @@
+## 🧙‍♂️ Greetings, traveler!
 
-## 🧙‍♂️  Olá, eu sou o Fillipe!
-
-
-Seja bem-vindo ao meu perfil no GitHub!  
-Sou um desenvolvedor apaixonado por tecnologia e programação.  
-Aqui você encontrará meus projetos, contribuições e um pouco do que gosto de construir.
+Welcome to my realm here on GitHub!  
+I'm **Fillipe**, a web sorcerer who crafts digital experiences with lines of code and a touch of magic.  
+Whether it’s backend alchemy or frontend enchantments, I’m always brewing something new. ✨
 
 
+## 🔮 About Me
+
+- 🧪 Always experimenting with new tools, frameworks, and ideas.
+- 🏗️ Building: A powerful reconciliation platform using Laravel, Filament, and PostgreSQL.
+- 📚 Learning: Deployment spells, Docker rituals, and production incantations.
+- 🐾 I share my lair with 5 magical feline companions: Meia Noite, Tigresa, Romeo, Sunny, and Mel.
+- 🧘 I value focus, simplicity, and flow — both in code and in life.
 
 
-## 🪄 Tecnologias e Ferramentas
+## 🪄 Spells & Tools I Cast With
 
+**✨ Languages & Frameworks**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Filament](https://img.shields.io/badge/-Filament-EF4444?style=flat&logo=laravel&logoColor=white)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**🗃️ Databases & Infrastructure**  
+![PostgreSQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![API](https://img.shields.io/badge/-API-005571?style=flat&logo=api&logoColor=white)
 
+
+**🎨 Styling & Deployment**  
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 
-
-## 📜 Minhas Estatísticas
+## 📜 Scrolls of Stats
 
 <p align="start">
-  <img src="https://mongodb-charts.vercel.app/api/github-stats" alt="Estatísticas personalizadas" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fillipecool&layout=compact&theme=radical" alt="Linguagens mais usadas" height="200"/>
+  <img src="https://mongodb-charts.vercel.app/api/github-stats" alt="Custom GitHub Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fillipecool&layout=compact&theme=radical" alt="Top Languages" height="200"/>
 </p>
 
-## 🔮 Contato
 
-Entre em contato comigo pelas redes abaixo:
+## 🧝‍♂️ Summon Me
+
+Want to team up for a project, ask a question, or just chat about the arcane arts of development?  
+Drop a message through one of the portals below:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fillipecool@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fillipefrt/)
