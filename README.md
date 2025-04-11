@@ -1,6 +1,4 @@
-## 🧙‍♂️ Greetings, traveler!
-
-Welcome to my realm here on GitHub!  
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=MedievalSharp&pause=1000&color=9736F7&repeat=false&width=435&lines=%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F+Greetings%2C+traveler!+Welcome+to+my+realm!+)](https://git.io/typing-svg)
 I'm **Fillipe**, a web sorcerer who crafts digital experiences with lines of code and a touch of magic.  
 Whether it’s backend alchemy or frontend enchantments, I’m always brewing something new. ✨
 
@@ -15,6 +13,7 @@ Whether it’s backend alchemy or frontend enchantments, I’m always brewing so
 
 
 ## 🪄 Spells & Tools I Cast With
+<img src="" min-width="200px" max-width="300px" width="300px" align="right">
 
 **✨ Languages & Frameworks**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
