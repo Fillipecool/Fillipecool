@@ -44,9 +44,9 @@ Whether it’s backend alchemy or frontend enchantments, I’m always brewing so
 ## 📜 Scrolls of Stats
 
 <p align="start">
-   <a href="https://grindcard.vercel.app" target="_blank">
-    <img src="https://grindcard.vercel.app/api/github-stats" alt="Custom GitHub Stats" width="55%"/>
-  </a>
+   <a href="https://grindcard.vercel.app" target="_blank" rel="noopener noreferrer">
+     <img src="https://grindcard.vercel.app/api/github-stats" alt="Custom GitHub Stats" width="55%"/>
+   </a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fillipecool&layout=compact&theme=radical" alt="Top Languages" width="33%"/>
 </p>
 
