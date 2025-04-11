@@ -13,7 +13,7 @@ Whether it’s backend alchemy or frontend enchantments, I’m always brewing so
 
 
 ## 🪄 Spells & Tools I Cast With
-<img src="/image/colorful-wizard-with-magic-wand-sticker.png" min-width="200px" max-width="300px" width="300px" align="right">
+<img src="/image/colorful-wizard-with-magic-wand-sticker.png" min-width="200px" max-width="300px" width="150px" align="right">
 
 **✨ Languages & Frameworks**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
